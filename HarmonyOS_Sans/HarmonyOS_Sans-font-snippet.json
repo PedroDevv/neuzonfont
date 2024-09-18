@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "HarmonyOS Sans",
+    "previewText": "HarmonyOS Sans is a font designed by Huawei to be easy to read, unique, yet universal.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans-Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold_Italic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Black.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Black_Italic?raw=1",
+        "ggsans-Medium": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Medium_Italic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Regular_Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold_Italic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Medium_Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Bold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/FlatPonch/Vendetta-Fonts/raw/main/HarmonyOS_Sans/HarmonyOS_Sans_Black.ttf?raw=1"
+    }
+}
