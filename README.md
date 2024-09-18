@@ -36,4 +36,6 @@ template
 
 ## [Font Snippet](https://raw.githubusercontent.com/FlatPonch/Vendetta-Fonts/main/"fontpath"/"fontname"-font-snippet.json)
 ## Font sourced from [here.](source here)
+
+so its copy(stole) from here -> https://github.com/Rairof/Theme-Fonts
 -->
