@@ -8,10 +8,10 @@
 <h2 align="left">1. HarmonyOS Sans</h2>
 <h2><details>
 <p align="left">
-<img src="./assets/hmos-1.png" width="300"/>
-<img src="./assets/hmos-2.png" width="300"/>
-<img src="./assets/hmos-3.png" width="300"/>
-<img src="./assets/hmos-4.png" width="300"/>
+<img src="./assets/hmos-1.jpg" width="300"/>
+<img src="./assets/hmos-2.jpg" width="300"/>
+<img src="./assets/hmos-3.jpg" width="300"/>
+<img src="./assets/hmos-4.jpg" width="300"/>
 </p>
 </details>
 </h2>
