@@ -16,7 +16,7 @@
 </details>
 </h2>
 
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/HarmonyOS_Sans/HarmonyOS_Sans-font-snippet.json)
+## [Font Snippet](https://raw.githubusercontent.com/FlatPonch/Vendetta-Fonts/main/HarmonyOS_Sans/HarmonyOS_Sans-font-snippet.json)
 ## Font sourced from [here.](https://developer.huawei.com/images/download/next/HarmonyOS-Sans.zip)
 
 
