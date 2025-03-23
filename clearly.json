@@ -1,0 +1,213 @@
+{
+    "name": "ClearVision v1.2.6",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "authors": [
+        {
+            "name": "Taki_Shiwa",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#7f1d1d",
+            "#7f1d1d",
+            "#7f1d1d"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#9b2c2c",
+            "#742a2a",
+            "#9b2c2c"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#b91c1c",
+            "#7f1d1d",
+            "#b91c1c"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#b91c1c",
+            "#7f1d1d",
+            "#b91c1c"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#4a0f0f",
+            "#4a0f0f",
+            "#4a0f0f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#4a0f0f",
+            "#4a0f0f",
+            "#4a0f0f"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#dc2626",
+            "#dc2626",
+            "#dc2626"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#991b1b7a",
+            "#b91c1c7a",
+            "#991b1b7a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#b91c1c26",
+            "#4a0f0f26",
+            "#b91c1c26"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#b91c1c26",
+            "#4a0f0f26",
+            "#b91c1c26"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#dc262699",
+            "#dc262699",
+            "#dc262699"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#6f1d1d",
+            "#9b2c2c",
+            "#3f0d0d"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#4a0f0f",
+            "#4a0f0f",
+            "#4a0f0f"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#7f1d1d",
+            "#7f1d1d",
+            "#7f1d1d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3f0d0d",
+            "#3f0d0d",
+            "#3f0d0d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#5a1414",
+            "#5a1414",
+            "#5a1414"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#a83a3a",
+            "#a83a3a",
+            "#a83a3a"
+        ],
+        "CHANNEL_ICON": [
+            "#ff4d4d4d",
+            "#ff4d4d4d",
+            "#ff4d4d4d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#3f0d0d99",
+            "#3f0d0d99",
+            "#3f0d0d99"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ],
+        "HEADER_PRIMARY": [
+            "#ff6b6b",
+            "#7f1d1d",
+            "#ff6b6b"
+        ],
+        "HEADER_SECONDARY": [
+            "#e53e3e",
+            "#e53e3e",
+            "#e53e3e"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#7f1d1d",
+            "#b91c1c",
+            "#3f0d0d"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#4a0f0f",
+            "#ff6b6b",
+            "#3f0d0d"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "INFO_WARNING_TEXT": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#ff4d4d",
+            "#7f1d1d",
+            "#ff4d4d"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "TEXT_DANGER": [
+            "#ff6b6b",
+            "#c53030",
+            "#ff6b6b"
+        ],
+        "TEXT_WARNING": [
+            "#ff6b6b",
+            "#c53030",
+            "#b91c1c"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ff4d4d",
+        "PRIMARY_130": "#ff6b6b",
+        "PRIMARY_200": "#e53e3e",
+        "PRIMARY_230": "#dc2626",
+        "PRIMARY_300": "#b91c1c",
+        "PRIMARY_360": "#7f1d1d",
+        "PRIMARY_400": "#6f1d1d",
+        "PRIMARY_460": "#4a0f0f",
+        "PRIMARY_500": "#991b1b",
+        "PRIMARY_560": "#5a1414",
+        "PRIMARY_600": "#3f0d0d",
+        "BLACK_500": "#3f0d0d",
+        "BLACK_600": "#3f0d0d",
+        "RED_400": "#ff4d4d",
+        "RED_430": "#ff6b6b",
+        "RED_460": "#e53e3e",
+        "WHITE_500": "#ff6b6b"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#7f1d1d",
+            "ic_mic_muted_neutral": "#7f1d1d",
+            "ic_soundboard": "#7f1d1d",
+            "ic_soundboard_muted": "#7f1d1d",
+            "ic_video": "#7f1d1d",
+            "ic_video_disabled": "#7f1d1d"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
