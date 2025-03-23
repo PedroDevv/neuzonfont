@@ -10,13 +10,13 @@
     ],
 "semanticColors": {
     "ANDROID_RIPPLE": [
-        "#7a2a2a"
+        "#4a1c1c"
     ],
     "CHAT_BACKGROUND": [
         "#0e0c0e"
     ],
     "BACKGROUND_ACCENT": [
-        "#ff7f7f"
+        "#ff4d4d"
     ],
     "BACKGROUND_FLOATING": [
         "#0e0b0e"
@@ -25,7 +25,7 @@
         "#A95C6833"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-        "#ff4d4d"
+        "#ff3b3b"
     ],
     "SCROLLBAR_THIN_THUMB": [
         "#00000000"
@@ -37,7 +37,7 @@
         "#00000000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-        "#f48fb1"
+        "#c62828"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
         "#111111"
@@ -73,7 +73,7 @@
         "#3D2C37"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-        "#ff3333"
+        "#ff1a1a"
     ],
     "BACKGROUND_PRIMARY": [
         "#4a1c1c"
@@ -103,7 +103,7 @@
         "#221b1e"
     ],
     "BORDER_FAINT": [
-        "#b39a9a"
+        "#7C6C6C"
     ],
     "BORDER_STRONG": [
         "#9C4C4C"
@@ -145,7 +145,7 @@
         "#ff63635e"
     ],
     "MENTION_FOREGROUND": [
-        "#ff6b6b"
+        "#ff4d4d"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
         "#1b1616"
@@ -190,7 +190,7 @@
         "#ff4d4d"
     ],
     "TEXT_LINK": [
-        "#ffb5b5"
+        "#ff4d4d"
     ],
     "TEXT_MUTED": [
         "#ff4d4d"
