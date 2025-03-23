@@ -371,19 +371,19 @@
         "url": "https://i.imgur.com/Kfk07Ux.jpeg",
         "OPACITY": 0
     },
-"plus": {
-    "version": "0",
-    "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#c62828",
-    "customOverlays": true,
-    "icons": {
-        "trash": "#c62828",
-        "TrashIcon": "#c62828",
-        "TriangleExclamationPointIcon": "#c62828",
-        "toast_copy_link": "#ff7f7f",
-        "toast_copy_message": "#feffff",
-        "toast_image_saved": "#feffff"
-    }
-},
+    "plus": {
+        "version": "0",
+        "iconPack": "rosiecord-plumpy",
+        "mentionLineColor": "#ff4d4d",
+        "customOverlays": true,
+        "icons": {
+            "trash": "#ff4d4d",
+            "TrashIcon": "#ff4d4d",
+            "TriangleExclamationPointIcon": "#ff4d4d",
+            "toast_copy_link": "#ffb5b5",
+            "toast_copy_message": "#feffff",
+            "toast_image_saved": "#feffff"
+        }
+    },
     "spec": 2
 }
